@@ -299,7 +299,7 @@ if __name__ == "__main__":
                     self.bot.quit()
                     
             def init():     
-                bot('tanmay.13__', '99136611', usern, message_)
+                bot('tanmay.13__', 'password', usern, message_)
                 print(f"successfully sent\n message : {message_}\n to {usern}")
                 speak("message successfully sent!")
                 
