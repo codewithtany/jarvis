@@ -26,9 +26,6 @@ distlib==0.3.1
 Django==3.1.2
 docker==4.3.1
 docutils==0.16
-download @ file:///C:/J.A.R.V.I.S/exe/python/download-0.3.5-py3-none-any.whl
-face-recognition-models==0.3.0
-fbchat==1.9.7
 filelock==3.0.12
 Flask==1.1.2
 Flask-SQLAlchemy==2.4.4
@@ -37,7 +34,6 @@ gitdb==4.0.5
 GitPython==3.1.9
 gunicorn==20.0.4
 h5py==2.10.0
-html5lib @ file:///C:/J.A.R.V.I.S/exe/python/html5lib-1.1-py3-none-any.whl
 idna==2.10
 image==1.5.32
 importlib-metadata==2.0.0
@@ -75,7 +71,6 @@ Pillow==7.2.0
 pipenv==2020.8.13
 poyo==0.5.0
 prompt-toolkit==3.0.8
-PyAudio @ file:///C:/J.A.R.V.I.S/PyAudio-0.2.11-cp37-cp37m-win32.whl
 PyAutoGUI==0.9.52
 pydub==0.24.1
 pygame==1.9.6
